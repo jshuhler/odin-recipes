@@ -1,0 +1,25 @@
+
+* {
+    font-family: Copperplate;
+}
+
+.page-title {
+    font-weight: 800;
+    font-size: 54px; 
+    text-align: center;
+    color: goldenrod;
+    background-color: #fffff0;
+    ;
+}
+
+.list-title {
+    font-weight: 700;
+    color: #fffff0;
+    background-color: goldenrod;
+    text-align: center;
+}
+
+.footer {
+    font-size: 12px;
+    text-align: right;
+}
