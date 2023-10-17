@@ -9,6 +9,8 @@
     text-align: center;
     color: goldenrod;
     background-color: #fffff0;
+    padding: 10px;
+    margin: 10 auto;
     ;
 }
 
@@ -17,6 +19,15 @@
     color: #fffff0;
     background-color: goldenrod;
     text-align: center;
+    padding: 4px;
+    margin: 8px;
+    display: inline;
+
+}
+
+.list {
+    padding: 8px;
+    margin: 16px;
 }
 
 .footer {
